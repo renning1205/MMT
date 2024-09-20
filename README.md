@@ -11,8 +11,7 @@ Ning Ren, Xiaosong Li, Yanxia Wu*, Yan Fu
   * **Python 3**
 
 ## Environmental settings
-This repository is developed using python **3.5.2/3.6.7** on Ubuntu **16.04.5 LTS**. The CUDA nad CUDNN version is **9.0** and **7.1.3** respectively. For Cifar experiments, we use **one NVIDIA 1080ti GPU card** for training and testing. (**four cards for iNaturalist ones**). Other platforms or GPU cards are not fully tested.
-
+This repository is developed using python **3.5.2/3.6.7** on Ubuntu **16.04.5 LTS**. The CUDA nad CUDNN version is **9.0** and **7.1.3** respectively. For Cifar experiments, we use **one NVIDIA 3080ti GPU card** for training and testing. 
 
 
 ## Usage
