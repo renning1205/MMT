@@ -41,7 +41,7 @@ Here is an example.
     'annotations': [
                     {
                         'image_id': 1,
-                        'fpath': '/home/MMT/CIFAIR-100-LT/images/train/7477/3b60c9486db1d2ee875f11a669fbde4a.jpg',
+                        'fpath': '/home/MMT/CIFAIR-10-LT/images/train/7477/3b60c9486db1d2ee875f11a669fbde4a.jpg',
                         'im_height': 600,
                         'im_width': 800,
                         'category_id': 7477
